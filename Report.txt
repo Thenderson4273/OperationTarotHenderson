@@ -1,0 +1,3 @@
+My scene in the project depicts the card "The Magician" and is supposed to represent the character exploring an medeival house where they practiced rune tossing, 
+a similar form of fortune telling to tarot card reading. My approach was pretty simple, I just wanted the player to be able to freely move and explore on their own, along 
+with interact as much as possible.
